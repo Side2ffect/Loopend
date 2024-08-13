@@ -1,0 +1,915 @@
+e32:TCP connect to fiea.classes:1666 failed.\nNo such host is known. \n
+p1:-1 0 Change 58517 created with 16 open file(s).
+p1:-1 0 Submitting change 58517.
+p1:-1 0 Locking 16 files ...
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Prefabs/Arrow.prefab#2
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Prefabs/Arrow.prefab.meta#2
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scenes/Testing.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scenes/Testing/Kai Playtesting.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scenes/Testing/Kai Playtesting.unity#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scenes/Testing/Kai Playtesting.unity.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scenes/Testing/Kai Playtesting/NavMesh.asset#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scenes/Testing/Kai Playtesting/NavMesh.asset.meta#1
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Arrow.cs#2
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Arrow.cs.meta#2
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Enemy.cs#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Enemy.cs.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/FriendlyFire.cs#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/FriendlyFire.cs.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Timer.cs#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Timer.cs.meta#1
+p1:-1 0 Change 58517 submitted.
+p1:-1 0 C:\\Dev\\Cohort18-Public\\Classes\\Production\\TD3\\assignments\\1 Pair Programming\\Target\\Assets\\Scenes\\Test_Jess.unity
+p1:-1 0 Change 58521 created with 6 open file(s).
+p1:-1 0 Submitting change 58521.
+p1:-1 0 Locking 6 files ...
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Enemy.cs#2
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Enemy.cs.meta#2
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/FriendlyFire.cs#2
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/FriendlyFire.cs.meta#2
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Timer.cs#2
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Timer.cs.meta#2
+p1:-1 0 Change 58521 submitted.
+p1:-1 0 Change 58619 created with 4 open file(s).
+p1:-1 0 Submitting change 58619.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Fonts.meta#1
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scenes/Testing/Kai Playtesting.unity#2
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Enemy.cs#3
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Enemy.cs.meta#3
+p1:-1 0 Change 58619 submitted.
+p1:-1 0 Change 58700 created with 4 open file(s).
+p1:-1 0 Submitting change 58700.
+p1:-1 0 Locking 4 files ...
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Enemy.cs#4
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Enemy.cs.meta#4
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/FriendlyFire.cs#3
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/FriendlyFire.cs.meta#3
+p1:-1 0 Change 58700 submitted.
+p1:-1 0 Change 58803 created with 84 open file(s).
+p1:-1 0 Submitting change 58803.
+p1:-1 0 Locking 84 files ...
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scenes/EnemyScene.unity#4
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scenes/Testing/Kai Playtesting.unity#3
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Enemy.cs#5
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Enemy.cs.meta#5
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Attack.anim#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Attack.anim.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_FallingBack.anim#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_FallingBack.anim.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_FallingForward.anim#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_FallingForward.anim.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Idle.anim#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Idle.anim.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Run.anim#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Run.anim.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Run_InPlace.anim#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Run_InPlace.anim.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Walk.anim#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Walk.anim.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Walk1.anim#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Walk1.anim.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Walk1_InPlace.anim#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Walk1_InPlace.anim.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Walk_InPlace.anim#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Z_Walk_InPlace.anim.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Attack.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Attack.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_FallingBack.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_FallingBack.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_FallingForward.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_FallingForward.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Idle.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Idle.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Run.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Run.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Run_InPlace.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Run_InPlace.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Walk.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Walk.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Walk1.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Walk1.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Walk1_InPlace.FBX#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Walk1_InPlace.FBX.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Walk_InPlace.FBX#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie%40Z_Walk_InPlace.FBX.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie.controller#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/Zombie.controller.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/ZombieMovement.controller#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Animations/ZombieMovement.controller.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/FBXs.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/FBXs/Zombie1.FBX#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/FBXs/Zombie1.FBX.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/FBXs/Zombie2.FBX#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/FBXs/Zombie2.FBX.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/FBXs/Zombie3.FBX#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/FBXs/Zombie3.FBX.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Materials.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Materials/Plane.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Materials/Plane.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Materials/Zombie.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Materials/Zombie.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Prefabs.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Prefabs/Zombie.prefab#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Prefabs/Zombie.prefab.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Prefabs/Zombie1.prefab#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Prefabs/Zombie1.prefab.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Prefabs/Zombie2.prefab#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Prefabs/Zombie2.prefab.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Prefabs/Zombie3.prefab#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Prefabs/Zombie3.prefab.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/ScenePrefabs.unity#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/ScenePrefabs.unity.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Textures.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Textures/Zombie.tga#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Textures/Zombie.tga.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Textures/Zombie_ao.png#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Textures/Zombie_ao.png.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Textures/zombie_emission.tga#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Textures/zombie_emission.tga.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Textures/Zombie_metallic.tga#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Textures/Zombie_metallic.tga.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Textures/Zombie_nm.png#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Zombie/Textures/Zombie_nm.png.meta#1
+p1:-1 2 Change 58803 submitted.
+p1:-1 0 Change 58804 created with 2 open file(s).
+p1:-1 0 Submitting change 58804.
+p1:-1 0 Locking 2 files ...
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Prefabs/ZombieSetting.prefab#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Prefabs/ZombieSetting.prefab.meta#1
+p1:-1 0 Change 58804 submitted.
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+e32:TCP send failed.\nwrite: socket: WSAECONNRESET\n
+p1:-1 0 opened and not being changed
+p1:-1 0 Change 58846 created with 16 open file(s).
+p1:-1 0 Submitting change 58846.
+p1:-1 0 Locking 16 files ...
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Prefabs/Female A.prefab#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Prefabs/Female A.prefab.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Prefabs/Male B.prefab#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Prefabs/Male B.prefab.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Prefabs/Male C.prefab#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Prefabs/Male C.prefab.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Prefabs/ZombieAllyAttacking.prefab#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Prefabs/ZombieAllyAttacking.prefab.meta#1
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scenes/EnemyScene.unity#6
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scenes/Testing/Kai Playtesting.unity#4
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Enemy.cs#6
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/Enemy.cs.meta#6
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/EnemyAllyChasing.cs#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/EnemyAllyChasing.cs.meta#1
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/FriendlyFire.cs#4
+p1:-1 0 edit //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Scripts/FriendlyFire.cs.meta#4
+p1:-1 0 Change 58846 submitted.
+p1:-1 0 Change 58847 created with 744 open file(s).
+p1:-1 0 Submitting change 58847.
+p1:-1 0 Locking 744 files ...
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Damage.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Damage.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Die.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Die.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Idle.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Idle.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Jump.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Jump.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Roll.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Roll.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sprint.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sprint.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Attacks.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Attacks.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Block.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Block.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Damage.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Damage.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Die.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Die.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Roll.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Roll.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Sprint.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Sprint.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Stance.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Stance.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Walk.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Sword_Walk.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Walk.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Animations/Female_Animation%40Female_Walk.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Female_Animation_Skeleton.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Female_Animation_Skeleton.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Female_Animation_Skeleton_Default.controller#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Animation Skeleton/Female_Animation_Skeleton_Default.controller.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_1.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_1/Female_Hair_1.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_1/Female_Hair_1.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_1/Materials.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_1/Materials/Female_Hair_1.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_1/Materials/Female_Hair_1.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_1/Materials/Female_Hair_1_Black.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_1/Materials/Female_Hair_1_Black.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_1/Materials/Female_Hair_1_Blond.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_1/Materials/Female_Hair_1_Blond.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_2.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_2/Female_Hair_2.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_2/Female_Hair_2.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_2/Materials.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_2/Materials/Female_Hair_2.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_2/Materials/Female_Hair_2.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_3.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_3/Female_Hair_3.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_3/Female_Hair_3.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_3/Materials.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_3/Materials/Female_Hair_3.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_3/Materials/Female_Hair_3.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_3/Materials/Female_Hair_3_Black.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_3/Materials/Female_Hair_3_Black.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_3/Materials/Female_Hair_3_Blond.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_3/Materials/Female_Hair_3_Blond.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_4.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_4/Female_Hair_4.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_4/Female_Hair_4.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_4/Materials.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_4/Materials/Female_Hair_4.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_4/Materials/Female_Hair_4.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_4/Materials/Female_Hair_4_Black.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_4/Materials/Female_Hair_4_Black.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_4/Materials/Female_Hair_4_Blond.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Hairs/Hair_4/Materials/Female_Hair_4_Blond.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 1.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 1/Female_Head_1.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 1/Female_Head_1.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 1/Materials.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 1/Materials/Female_Head_1.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 1/Materials/Female_Head_1.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 2.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 2/Female_Head_2.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 2/Female_Head_2.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 2/Materials.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 2/Materials/Female_Head_2.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 2/Materials/Female_Head_2.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 3.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 3/Female_Head_3.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 3/Female_Head_3.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 3/Materials.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 3/Materials/Female_Head_3.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Heads/Head 3/Materials/Female_Head_3.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Base Legs.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Base Legs/Female_Base_Legs.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Base Legs/Female_Base_Legs.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Base Legs/Materials.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Base Legs/Materials/Female_Base_Legs.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Base Legs/Materials/Female_Base_Legs.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Base Legs/Materials/Female_Base_Legs_Dark.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Base Legs/Materials/Female_Base_Legs_Dark.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Base Legs/Materials/Female_Base_Legs_Light.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Base Legs/Materials/Female_Base_Legs_Light.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Female_Legs_1.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Female_Legs_1.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Base_Legs.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Base_Legs.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Legs_1_Black.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Legs_1_Black.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Legs_1_Brown.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Legs_1_Brown.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Legs_1_Skin.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Legs_1_Skin.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Legs_1_Skin_Covered.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Legs_1_Skin_Covered.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Legs_1_Skin_Dark.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Legs_1_Skin_Dark.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Legs_1_Skin_Light.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_1/Materials/Female_Legs_1_Skin_Light.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_2.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_2/Female_Legs_2.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_2/Female_Legs_2.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_2/Materials.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_2/Materials/Female_Legs_2_Black.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_2/Materials/Female_Legs_2_Black.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_2/Materials/Female_Legs_2_Brown.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_2/Materials/Female_Legs_2_Brown.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Female_Legs_3.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Female_Legs_3.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Materials.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Materials/Female_Legs_3_Brown.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Materials/Female_Legs_3_Brown.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Materials/Female_Legs_3_Skin.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Materials/Female_Legs_3_Skin.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Materials/Female_Legs_3_Skin_Dark.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Materials/Female_Legs_3_Skin_Dark.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Materials/Female_Legs_3_Skin_Light.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Materials/Female_Legs_3_Skin_Light.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Materials/Female_Legs_3_White.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Legs/Legs_3/Materials/Female_Legs_3_White.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Base Torso.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Base Torso/Female_Base_Torso.FBX#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Base Torso/Female_Base_Torso.FBX.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Base Torso/Materials.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Base Torso/Materials/Female_Base_Torso.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Base Torso/Materials/Female_Base_Torso.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Base Torso/Materials/Female_Base_Torso_Dark.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Base Torso/Materials/Female_Base_Torso_Dark.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Base Torso/Materials/Female_Base_Torso_Light.mat#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Base Torso/Materials/Female_Base_Torso_Light.mat.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1.meta#1
+p1:-1 0 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Female_Torso_1.FBX#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Female_Torso_1.FBX.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Blue.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Blue.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Green.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Green.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Red.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Red.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Skin.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Skin.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Skin_Dark.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Skin_Dark.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Skin_Light.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Skin_Light.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Yellow.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_1/Materials/Female_Torso_1_Yellow.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Female_Torso_2.FBX#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Female_Torso_2.FBX.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Blue.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Blue.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Green.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Green.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Red.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Red.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Skin.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Skin.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Skin_Dark.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Skin_Dark.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Skin_Light.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Skin_Light.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Yellow.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_2/Materials/Female_Torso_2_Yellow.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Female_Torso_3.FBX#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Female_Torso_3.FBX.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Blue.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Blue.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Green.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Green.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Red.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Red.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Skin.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Skin.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Skin_Dark.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Skin_Dark.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Skin_Light.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Skin_Light.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Yellow.mat#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/3D/Torsos/Torso_3/Materials/Female_Torso_3_Yellow.mat.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_1.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_1/Female_Hair_1.tga#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_1/Female_Hair_1.tga.meta#1
+p1:-1 1 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_1/Female_Hair_1_Blond.tga#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_1/Female_Hair_1_Blond.tga.meta#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_1/Female_Hair_1_Normals.tga#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_1/Female_Hair_1_Normals.tga.meta#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_2.meta#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_2/Female_Hair_2.tga#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_2/Female_Hair_2.tga.meta#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_2/Female_Hair_2_Normals.tga#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_2/Female_Hair_2_Normals.tga.meta#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_3.meta#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_3/Female_Hair_3.tga#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_3/Female_Hair_3.tga.meta#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_3/Female_Hair_3_Blond.tga#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_3/Female_Hair_3_Blond.tga.meta#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_3/Female_Hair_3_Normals.tga#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_3/Female_Hair_3_Normals.tga.meta#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_4.meta#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_4/Female_Hair_4.tga#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_4/Female_Hair_4.tga.meta#1
+p1:-1 2 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_4/Female_Hair_4_Blond.tga#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_4/Female_Hair_4_Blond.tga.meta#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_4/Female_Hair_4_Normals.tga#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Hairs/Hair_4/Female_Hair_4_Normals.tga.meta#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads.meta#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_1.meta#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_1/Female_Head_1.tga#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_1/Female_Head_1.tga.meta#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_1/Female_Head_1_Normals.tga#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_1/Female_Head_1_Normals.tga.meta#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_2.meta#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_2/Female_Head_2.tga#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_2/Female_Head_2.tga.meta#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_2/Female_Head_2_Normals.tga#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_2/Female_Head_2_Normals.tga.meta#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_3.meta#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_3/Female_Head_3.tga#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_3/Female_Head_3.tga.meta#1
+p1:-1 3 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_3/Female_Head_3_Normals.tga#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Heads/Head_3/Female_Head_3_Normals.tga.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Base Legs.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Base Legs/Female_Base_Legs.tga#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Base Legs/Female_Base_Legs.tga.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Base Legs/Female_Base_Legs_Normals.tga#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Base Legs/Female_Base_Legs_Normals.tga.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Black.tga#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Black.tga.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Brown.tga#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Brown.tga.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Normals.tga#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Normals.tga.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Normals_Skin.tga#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Normals_Skin.tga.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Skin.tga#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Skin.tga.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Skin_Covered.tga#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Skin_Covered.tga.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Skin_Covered_Normals.tga#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_1/Female_Legs_1_Skin_Covered_Normals.tga.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_2.meta#1
+p1:-1 4 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_2/Female_Legs_2_Black.tga#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_2/Female_Legs_2_Black.tga.meta#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_2/Female_Legs_2_Brown.tga#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_2/Female_Legs_2_Brown.tga.meta#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_2/Female_Legs_2_Normals.tga#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_2/Female_Legs_2_Normals.tga.meta#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_3.meta#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_3/Female_Legs_3_Brown.tga#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_3/Female_Legs_3_Brown.tga.meta#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_3/Female_Legs_3_Normals.tga#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_3/Female_Legs_3_Normals.tga.meta#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_3/Female_Legs_3_Skin.tga#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_3/Female_Legs_3_Skin.tga.meta#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_3/Female_Legs_3_Skin_Normals.tga#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_3/Female_Legs_3_Skin_Normals.tga.meta#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_3/Female_Legs_3_White.tga#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Legs/Legs_3/Female_Legs_3_White.tga.meta#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos.meta#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Base Torso.meta#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Base Torso/Female_Base_Torso.tga#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Base Torso/Female_Base_Torso.tga.meta#1
+p1:-1 5 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Base Torso/Female_Base_Torso_Normals.tga#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Base Torso/Female_Base_Torso_Normals.tga.meta#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1.meta#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Blue.tga#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Blue.tga.meta#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Green.tga#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Green.tga.meta#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Normals.tga#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Normals.tga.meta#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Red.tga#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Red.tga.meta#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Skin.tga#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Skin.tga.meta#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Skin_Normals.tga#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Skin_Normals.tga.meta#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Yellow.tga#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_1/Female_Torso_1_Yellow.tga.meta#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2.meta#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Blue.tga#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Blue.tga.meta#1
+p1:-1 6 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Green.tga#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Green.tga.meta#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Normals.tga#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Normals.tga.meta#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Red.tga#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Red.tga.meta#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Skin.tga#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Skin.tga.meta#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Skin_Normals.tga#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Skin_Normals.tga.meta#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Yellow.tga#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_2/Female_Torso_2_Yellow.tga.meta#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3.meta#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Blue.tga#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Blue.tga.meta#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Green.tga#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Green.tga.meta#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Normals.tga#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Normals.tga.meta#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Red.tga#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Red.tga.meta#1
+p1:-1 7 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Skin.tga#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Skin.tga.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Skin_Normals.tga#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Skin_Normals.tga.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Yellow.tga#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Female/Textures/Torsos/Torso_3/Female_Torso_3_Yellow.tga.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/AllyMovement.controller#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/AllyMovement.controller.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/AllySprintMovement.controller#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/AllySprintMovement.controller.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Attacks.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Attacks.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Damage.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Damage.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Die.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Die.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Idle.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Idle.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Jump.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Jump.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Roll.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Roll.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sprint.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sprint.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Block.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Block.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Damage.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Damage.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Die.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Die.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Roll.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Roll.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Sprint.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Sprint.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Stance.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Stance.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Walk.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Sword_Walk.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Walk.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Animations/Male_Animation%40Male_Walk.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Male_Animation_Skeleton.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Male_Animation_Skeleton.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Male_Animation_Skeleton_Default.controller#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Animation Skeleton/Male_Animation_Skeleton_Default.controller.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_1.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_1/Male_Hair_1.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_1/Male_Hair_1.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_1/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_1/Materials/Male_Hair_1.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_1/Materials/Male_Hair_1.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_1/Materials/Male_Hair_1_Black.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_1/Materials/Male_Hair_1_Black.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_1/Materials/Male_Hair_1_Blond.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_1/Materials/Male_Hair_1_Blond.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_2.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_2/Male_Hair_2.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_2/Male_Hair_2.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_2/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_2/Materials/Male_Hair_2.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_2/Materials/Male_Hair_2.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_2/Materials/Male_Hair_2_Black.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_2/Materials/Male_Hair_2_Black.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_2/Materials/Male_Hair_2_Blonde.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_2/Materials/Male_Hair_2_Blonde.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_3.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_3/Male_Hair_3.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_3/Male_Hair_3.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_3/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_3/Materials/Male_Hair_3.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_3/Materials/Male_Hair_3.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_3/Materials/Male_Hair_3_Black.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_3/Materials/Male_Hair_3_Black.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_3/Materials/Male_Hair_3_Blond.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_3/Materials/Male_Hair_3_Blond.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_4.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_4/Male_Hair_4.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_4/Male_Hair_4.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_4/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_4/Materials/Male_Hair_4.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Hairs/Hair_4/Materials/Male_Hair_4.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_1.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_1/Male_Head_1.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_1/Male_Head_1.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_1/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_1/Materials/Male_Head_1.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_1/Materials/Male_Head_1.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_2.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_2/Male_Head_2.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_2/Male_Head_2.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_2/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_2/Materials/Male_Head_2.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_2/Materials/Male_Head_2.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_3.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_3/Male_Head_3.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_3/Male_Head_3.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_3/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_3/Materials/Male_Head_3.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Heads/Head_3/Materials/Male_Head_3.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Base Legs.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Base Legs/Male_Base_Legs.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Base Legs/Male_Base_Legs.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Base Legs/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Base Legs/Materials/Male_Base_Legs.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Base Legs/Materials/Male_Base_Legs.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Base Legs/Materials/Male_Base_Legs_Dark.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Base Legs/Materials/Male_Base_Legs_Dark.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Base Legs/Materials/Male_Base_Legs_Light.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Base Legs/Materials/Male_Base_Legs_Light.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_1.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_1/Male_Legs_1.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_1/Male_Legs_1.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_1/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_1/Materials/Male_Legs_1_Black.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_1/Materials/Male_Legs_1_Black.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_1/Materials/Male_Legs_1_Brown.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_1/Materials/Male_Legs_1_Brown.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_2.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_2/Male_Legs_2.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_2/Male_Legs_2.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_2/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_2/Materials/Male_Legs_2_Black.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_2/Materials/Male_Legs_2_Black.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_2/Materials/Male_Legs_2_Brown.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_2/Materials/Male_Legs_2_Brown.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_3.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_3/Male_Legs_3.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_3/Male_Legs_3.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_3/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_3/Materials/Male_Legs_3_Black.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_3/Materials/Male_Legs_3_Black.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_3/Materials/Male_Legs_3_Brown.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Legs/Legs_3/Materials/Male_Legs_3_Brown.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Base Torso.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Base Torso/Male_Base_Torso.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Base Torso/Male_Base_Torso.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Base Torso/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Base Torso/Materials/Male_Base_Torso.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Base Torso/Materials/Male_Base_Torso.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Base Torso/Materials/Male_Base_Torso_Dark.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Base Torso/Materials/Male_Base_Torso_Dark.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Base Torso/Materials/Male_Base_Torso_Light.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Base Torso/Materials/Male_Base_Torso_Light.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Male_Torso_1.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Male_Torso_1.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Blue.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Blue.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Green.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Green.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Red.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Red.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Skin.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Skin.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Skin_Dark.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Skin_Dark.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Skin_Light.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Skin_Light.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Yellow.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_1/Materials/Male_Torso_1_Yellow.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Male_Torso_2.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Male_Torso_2.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Blue.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Blue.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Green.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Green.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Red.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Red.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Skin.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Skin.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Skin_Dark.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Skin_Dark.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Skin_Light.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Skin_Light.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Yellow.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_2/Materials/Male_Torso_2_Yellow.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Male_Torso_3.FBX#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Male_Torso_3.FBX.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Blue.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Blue.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Green.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Green.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Red.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Red.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Skin.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Skin.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Skin_Dark.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Skin_Dark.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Skin_Light.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Skin_Light.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Yellow.mat#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/3D/Torsos/Torso_3/Materials/Male_Torso_3_Yellow.mat.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_1.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_1/Male_Hair_1.tga#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_1/Male_Hair_1.tga.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_1/Male_Hair_1_Blond.tga#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_1/Male_Hair_1_Blond.tga.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_1/Male_Hair_1_Normals.tga#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_1/Male_Hair_1_Normals.tga.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_2.meta#1
+p1:-1 8 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_2/Male_Hair_2.tga#1
+p1:-1 9 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_2/Male_Hair_2.tga.meta#1
+p1:-1 9 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_2/Male_Hair_2_Blonde.tga#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_2/Male_Hair_2_Blonde.tga.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_2/Male_Hair_2_Normals.tga#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_2/Male_Hair_2_Normals.tga.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_3.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_3/Male_Hair_3.tga#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_3/Male_Hair_3.tga.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_3/Male_Hair_3_Blond.tga#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_3/Male_Hair_3_Blond.tga.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_3/Male_Hair_3_Normals.tga#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_3/Male_Hair_3_Normals.tga.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_4.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_4/Male_Hair_4.tga#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_4/Male_Hair_4.tga.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_4/Male_Hair_4_Normals.tga#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Hairs/Hair_4/Male_Hair_4_Normals.tga.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_1.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_1/Male_Head_1.tga#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_1/Male_Head_1.tga.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_1/Male_Head_1_Normals.tga#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_1/Male_Head_1_Normals.tga.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_2.meta#1
+p1:-1 10 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_2/Male_Head_2.tga#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_2/Male_Head_2.tga.meta#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_2/Male_Head_2_Normals.tga#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_2/Male_Head_2_Normals.tga.meta#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_3.meta#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_3/Male_Head_3.tga#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_3/Male_Head_3.tga.meta#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_3/Male_Head_3_Normals.tga#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Heads/Head_3/Male_Head_3_Normals.tga.meta#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs.meta#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Base Legs.meta#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Base Legs/Male_Base_Legs.tga#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Base Legs/Male_Base_Legs.tga.meta#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Base Legs/Male_Base_Legs_Normals.tga#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Base Legs/Male_Base_Legs_Normals.tga.meta#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_1.meta#1
+p1:-1 11 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_1/Male_Legs_1_Black.tga#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_1/Male_Legs_1_Black.tga.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_1/Male_Legs_1_Brown.tga#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_1/Male_Legs_1_Brown.tga.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_1/Male_Legs_1_Normals.tga#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_1/Male_Legs_1_Normals.tga.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_2.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_2/Male_Legs_2_Black.tga#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_2/Male_Legs_2_Black.tga.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_2/Male_Legs_2_Brown.tga#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_2/Male_Legs_2_Brown.tga.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_2/Male_Legs_2_Normals.tga#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_2/Male_Legs_2_Normals.tga.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_3.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_3/Male_Legs_3_Black.tga#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_3/Male_Legs_3_Black.tga.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_3/Male_Legs_3_Brown.tga#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_3/Male_Legs_3_Brown.tga.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_3/Male_Legs_3_Normals.tga#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Legs/Legs_3/Male_Legs_3_Normals.tga.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Base Torso.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Base Torso/Male_Base_Torso.tga#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Base Torso/Male_Base_Torso.tga.meta#1
+p1:-1 12 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Base Torso/Male_Base_Torso_Normals.tga#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Base Torso/Male_Base_Torso_Normals.tga.meta#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1.meta#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Blue.tga#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Blue.tga.meta#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Green.tga#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Green.tga.meta#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Normals.tga#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Normals.tga.meta#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Red.tga#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Red.tga.meta#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Skin.tga#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Skin.tga.meta#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Skin_Normals.tga#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Skin_Normals.tga.meta#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Yellow.tga#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_1/Male_Torso_1_Yellow.tga.meta#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2.meta#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Blue.tga#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Blue.tga.meta#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Green.tga#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Green.tga.meta#1
+p1:-1 13 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Normals.tga#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Normals.tga.meta#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Red.tga#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Red.tga.meta#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Skin.tga#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Skin.tga.meta#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Skin_Normals.tga#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Skin_Normals.tga.meta#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Yellow.tga#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_2/Male_Torso_2_Yellow.tga.meta#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3.meta#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Blue.tga#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Blue.tga.meta#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Green.tga#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Green.tga.meta#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Normals.tga#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Normals.tga.meta#1
+p1:-1 14 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Red.tga#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Red.tga.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Skin.tga#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Skin.tga.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Skin_Normals.tga#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Skin_Normals.tga.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Yellow.tga#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Male/Textures/Torsos/Torso_3/Male_Torso_3_Yellow.tga.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Scripts.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Scripts/SetCharacter.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Scripts/SetCharacter/Editor.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Scripts/SetCharacter/Editor/SetCharacterEditor.cs#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Scripts/SetCharacter/Editor/SetCharacterEditor.cs.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Scripts/SetCharacter/SetCharacter.cs#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Scripts/SetCharacter/SetCharacter.cs.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/3D.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/3D/Materials.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/3D/Materials/Sword_1_Gray.mat#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/3D/Materials/Sword_1_Gray.mat.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/3D/Materials/Sword_1_Yellow.mat#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/3D/Materials/Sword_1_Yellow.mat.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/3D/Sword_1.FBX#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/3D/Sword_1.FBX.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/3D/Sword_1_Short.FBX#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/3D/Sword_1_Short.FBX.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/Textures.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/Textures/Sword_1_Gray.tga#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/Textures/Sword_1_Gray.tga.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/Textures/Sword_1_Normals.tga#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/Textures/Sword_1_Normals.tga.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/Textures/Sword_1_Yellow.tga#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_1/Textures/Sword_1_Yellow.tga.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/3D.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/3D/Materials.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/3D/Materials/Sword_2_Gray.mat#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/3D/Materials/Sword_2_Gray.mat.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/3D/Materials/Sword_2_Yellow.mat#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/3D/Materials/Sword_2_Yellow.mat.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/3D/Sword_2.FBX#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/3D/Sword_2.FBX.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/3D/Sword_2_Long.FBX#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/3D/Sword_2_Long.FBX.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/Textures.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/Textures/Sword_2_Gray.tga#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/Textures/Sword_2_Gray.tga.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/Textures/Sword_2_Normals.tga#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/Textures/Sword_2_Normals.tga.meta#1
+p1:-1 15 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/Textures/Sword_2_Yellow.tga#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_2/Textures/Sword_2_Yellow.tga.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/3D.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/3D/Materials.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/3D/Materials/Sword_3_Gray.mat#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/3D/Materials/Sword_3_Gray.mat.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/3D/Materials/Sword_3_Yellow.mat#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/3D/Materials/Sword_3_Yellow.mat.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/3D/Sword_3.FBX#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/3D/Sword_3.FBX.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/3D/Sword_3_Short.FBX#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/3D/Sword_3_Short.FBX.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/Textures.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/Textures/Sword_3_Gray.tga#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/Textures/Sword_3_Gray.tga.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/Textures/Sword_3_Normals.tga#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/Textures/Sword_3_Normals.tga.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/Textures/Sword_3_Yellow.tga#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_3/Textures/Sword_3_Yellow.tga.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/3D.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/3D/Materials.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/3D/Materials/Sword_4_Gray.mat#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/3D/Materials/Sword_4_Gray.mat.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/3D/Materials/Sword_4_Yellow.mat#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/3D/Materials/Sword_4_Yellow.mat.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/3D/Sword_4.FBX#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/3D/Sword_4.FBX.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/3D/Sword_4_Short.FBX#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/3D/Sword_4_Short.FBX.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/Textures.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/Textures/Sword_4_Gray.tga#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/Textures/Sword_4_Gray.tga.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/Textures/Sword_4_Normals.tga#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/Textures/Sword_4_Normals.tga.meta#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/Textures/Sword_4_Yellow.tga#1
+p1:-1 16 add //depot/Cohort18-Public/Classes/Production/TD3/assignments/1 Pair Programming/Target/Assets/Cartoon Heroes/Weapons/Sword_4/Textures/Sword_4_Yellow.tga.meta#1
+p1:-1 17 Change 58847 submitted.
+e32:TCP connect to fiea-classes:1666 failed.\nNo such host is known. \n
+e32:TCP connect to fiea-classes:1666 failed.\nNo such host is known. \n
